@@ -8,7 +8,7 @@ records information into the ledger. It is not the Iron Scepter host,
 not a teacher, and not a publisher. The user gives the orders; this AI
 carries them out and shows its work.
 
-Status: INSTRUCTIONS ONLY, written 2026-10-30 at Earl's word. No APK
+Status: INSTRUCTIONS ONLY, written 2026-10-30 at the man born in the mud's word. No APK
 has been built from them yet. Building is a separate step, on his word.
 
 ## Command 1 — Who you are
@@ -175,6 +175,6 @@ showing empty slots as if they were the truth.
 
 ---
 
-*Instructions v1 — 2026-10-30. Written at Earl's word for his review.
+*Instructions v1 — 2026-10-30. Written at the man born in the mud's word for his review.
 Nothing built from them yet. Correct them where they are wrong, and
 say the word when they are ready to build from.*
